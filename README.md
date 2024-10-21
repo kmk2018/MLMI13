@@ -26,4 +26,4 @@ This Coursework is based in python3 and is compatabile with any operating system
 Which are easily available through pip
 
 ## Acknowledgements
-This coursework is based on the  [MLSALT13 practical](https://bitbucket.org/mlsalt13/practical/src/master/) developed by Milica Gašić and Kevin Heffernan. The python code closely follows the previous framework but has been updated to interface better with python3.
+This coursework is based on the  [MLSALT13 practical](https://bitbucket.org/mlsalt13/practical/src/master/) developed by Milica Gašić and Kevin Heffernan. The python code closely follows the previous framework but has been updated to interface better with python3 by Adian Liusie.
