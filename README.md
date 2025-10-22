@@ -1,7 +1,7 @@
 # Official MLMI13 Coursework Code
 
 Handout Link: [link to moodle](https://www.vle.cam.ac.uk/pluginfile.php/26183012/mod_resource/content/17/MLMI13-Practical-2022.pdf)\
-Contact Details: Dr. Kate Knill, Tony Zheng (kmk1001@cam.ac.uk, xz396@cam.ac.uk)
+Contact Details: Dr. Kate Knill, Shilin Gao (kmk1001@cam.ac.uk, sg2196@cam.ac.uk)
 
 ## Overview
 This repository will provide the code framework for the MLMI coursework. The code base has been partialy completed where code sections marked with `#TODO` are left for the student to compelte. The task considered for the coursework is sentiment classifcation on the IMDB dataset, where the methods proposed in the [original paper](https://aclanthology.org/W02-1011.pdf) will be considered.
